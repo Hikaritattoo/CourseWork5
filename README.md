@@ -1,4 +1,4 @@
 # Курсовая работа 5
 
-***Перед тобой - имитация маленькой игры с веб-интерфейсом о битве героев в стиле олдскульных браузерных игр.
-Надеюсь, тебе понравится***
+***This is an imitation of a small game with a web interface about the battle of heroes in the style of old school games.
+Hope, you like it***
